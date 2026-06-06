@@ -12,9 +12,13 @@ A 2-screen Flutter application that displays live job listings from the Arbeitno
 - Job cards showing title, company, location
 - Heart (bookmark) toggle per job card
 
+
+ <img width="345" height="768" alt="Screenshot 2026-06-06 121325" src="https://github.com/user-attachments/assets/dd2f9680-432a-4136-80d4-4df482e6429f" />
+
 ### Screen 2 – Job Detail
 - Full description in a scrollable view
 - "Apply Now" button opens the job URL via `url_launcher`
+<img width="345" height="768" alt="Screenshot 2026-06-06 121336" src="https://github.com/user-attachments/assets/cef5f9cb-97cd-4acf-a663-413312485b33" />
 
 ---
 
